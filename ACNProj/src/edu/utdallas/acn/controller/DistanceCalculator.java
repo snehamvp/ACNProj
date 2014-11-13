@@ -90,6 +90,7 @@ public class DistanceCalculator {
 			}
 			neighborsList.clear();
 			neighborsMap.clear();
+			System.out.println("RUKMINI");
 		}
 	}
 }
